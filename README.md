@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Kevin Antony, an undergraduate computer science and engineering student at Dr. B. R. Ambedkar National Institute of Technology in Jalandhar, Punjab, India.
-Skills- Python & R
+Skills- Python & R \n
 -Data Science and Quant Analytics are some of my current interests.
 ### For enquiries, reach out at 📥 linkedin.com/in/kevin-antony or 📧 kevina.cs.20@nitj.ac.in .
 <!--
