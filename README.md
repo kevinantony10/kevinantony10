@@ -1,6 +1,6 @@
-### Hi there 👋
-### I'm Kevin Antony, an undergraduate computer science and engineering student at Dr. B. R. Ambedkar National Institute of Technology in Jalandhar, Punjab, India.
-### For enquiries , Reach out to me at 📥 linkedin.com/in/kevin-antony or 📧 kevina.cs.20@nitj.ac.in .
+# Hi there 👋
+## I'm Kevin Antony, an undergraduate computer science and engineering student at Dr. B. R. Ambedkar National Institute of Technology in Jalandhar, Punjab, India.
+### Reach out to me at 📥 linkedin.com/in/kevin-antony or 📧 kevina.cs.20@nitj.ac.in .
 <!--
 **kevinantony10/kevinantony10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
