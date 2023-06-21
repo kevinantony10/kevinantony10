@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **LangChain, LLMOps & AI.**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BBDJ8J61xGghRGCzVWxY1pg1ysDVLGk4/view?usp=sharing](https://drive.google.com/file/d/1BBDJ8J61xGghRGCzVWxY1pg1ysDVLGk4/view?usp=sharing)
+
 - 📫 How to reach me **📥 linkedin.com/in/kevin-antony or 📧 kevina.cs.20@nitj.ac.in .**
 
 <h3 align="left">Connect with me:</h3>
