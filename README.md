@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Prediction Algorithms.**
 
-- 👯 I’m looking to collaborate on **cool AI/ML Projects**
+- 🤝 I’m looking to collaborate on **cool AI/ML Projects**
 
 - 💬 Ask me about **LangChain, LLMOps & AI.**
 
