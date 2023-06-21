@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on building AI Tools to improve the customer experience at [AnCrypto]([AnCrypto.io](https://www.ancrypto.io/))
+- 🔭 I’m currently working on building AI Tools to improve the customer experience at [AnCrypto.io](https://www.ancrypto.io/)
 
 - 🌱 I’m currently learning **Prediction Algorithms.**
 
