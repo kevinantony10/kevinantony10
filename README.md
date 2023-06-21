@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1BBDJ8J61xGghRGCzVWxY1pg1ysDVLGk4/view?usp=sharing).
 
-- 📫 How to reach me **📥 linkedin.com/in/kevin-antony or 📧 kevina.cs.20@nitj.ac.in .**
+- 📫 How to reach me **📥 linkedin.com/in/kevin-antony or 📧 kevina.cs.20@nitj.ac.in.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
