@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevnantony&label=Profile%20views&color=0e75b6&style=flat" alt="kevnantony" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kevnantony" target="blank"><img src="https://img.shields.io/twitter/follow/kevnantony?logo=twitter&style=for-the-badge" alt="kevnantony" /></a> </p>
-
 - 🔭 I’m currently working on building AI Tools to improve customer experience at [AnCrypto](@AnCrypto (ancrypto.io))
 
 - 🌱 I’m currently learning **Prediction Algorithms.**
