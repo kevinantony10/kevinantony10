@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **cool AI/ML Projects**
 
-- 💬 Ask me about **LangChain, LLMOps & AI.**
+- 💬 Ask me about **LLMs & AI.**
 
 - 📄 Know about my experiences [here.](https://docs.google.com/document/d/185HlfDV9kbjwG2rb6sPWx9NtDUzkHDuI3oBVUc0eE-Q/edit?usp=sharing)
 
