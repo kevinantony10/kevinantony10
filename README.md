@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin.</h1>
-<h3 align="center">A Computer Science & Engineering student at NIT Jalandhar & an AI/ML + Product Engineering Enthusiast</h3>
+<h3 align="center">A Computer Science & Engineering student at NIT Jalandhar & an AI/ML + Blockchain Enthusiast</h3>
 
 
 
